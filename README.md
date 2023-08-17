@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @momoish3r3
 - 👀 I’m interested in coding and building apps
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on learning and building together
 - 📫 How to reach me instagram @momoish3r3
 
